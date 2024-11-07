@@ -1,4 +1,4 @@
-Seminarska naloga: AI in prihodnost človeštva – Ali je AI prihodnost umetnosti in kreativnih del?
+**Seminarska naloga: AI in prihodnost človeštva – Ali je AI prihodnost umetnosti in kreativnih del?**
 Uvod
 Umetna inteligenca (AI) je v zadnjih nekaj desetletjih postala ena najbolj revolucionarnih tehnologij našega časa, katere vpliv se že občuti v različnih industrijah. Njene sposobnosti segajo od prepoznavanja vzorcev v velikih količinah podatkov do izvajanja nalog, ki so nekoč veljale za izključno človeške, kot je ustvarjanje umetnosti. Z napredkom v področju globokega učenja, računalniškega vida in generativnih modelov se postavlja vprašanje, ali bo umetna inteligenca v prihodnosti postala ključni ustvarjalec umetniških del ali pa bo zgolj orodje, ki bo umetnikom pomagal pri njihovem delu. V tem članku bomo raziskali vlogo AI v umetnosti, njen potencial za prihodnost ter etične, filozofske in kulturne izzive, ki jih prinaša uporaba AI v ustvarjalnem procesu.
 
