@@ -1,4 +1,4 @@
-## Samovozeča vozila in umetna inteligenca
+# Samovozeča vozila in umetna inteligenca
 
 ## 1. **Uvod**
 Razvoj samovozečih vozil (ali avtonomnih vozil) označuje eno največjih tehnoloških 
@@ -36,5 +36,5 @@ Prihodnost avtonomnih vozil je tesno povezana z nadaljnjim razvojem umetne intel
 ## 6. **Zaključek**
 Samovozeča vozila so eden najbolj vznemirljivih primerov, kako lahko umetna inteligenca preoblikuje vsakdanje življenje. Kljub pomembnim izzivom tehnologija prinaša številne prednosti, ki lahko pozitivno vplivajo na prometno varnost, učinkovitost in dostopnost. Uspeh avtonomnih vozil pa bo odvisen od reševanja etičnih, pravnih in tehnoloških izzivov, ki spremljajo njihovo implementacijo. Samovozeča vozila zato predstavljajo ne le tehnološko inovacijo, temveč tudi družbeni izziv, ki terja premislek o naši prihodnosti.
 
-## 6. VIRI[UKM](https://plus.cobiss.net/cobiss/um/sl/discovery/eNp9kM1O3DAQx6OqSFDoIyBZ4pztxM7m4wZCtEVC6qWcrVnPhPU2sYPtLOUpeOV6tbTHnmY08_-QfkVxWcGqgg6-VG3dQa9gJUHWK6lq6NrmQ3F2uJfQ1_3Hf7uC0-JTjDuAulUNnBVvd79nDnZil3AUhAlFKSjYPTuB45MPNm0nkbyYA5M1SUyL-TXbkYXZYkCTsjkma6KwTuy8dYlJ-D2HzRIoZ2zYma1YonVPYnETOpf_mE25bc9ba3ISOhI397nEj_GiOBlwjPz5fZ4Xj1_vft5-Lx9-fLu_vXkojVJdKhU1xG2j2oaQAOQASMpUa1RA1G2Ya5bKyEHWLapKkmEAVmvVcEck-16dF1fH3Dn454Vj0ju_BJcrtToga2QWZ9X6qDLBxxh40HNmheFVV6AP7PVf9vrAXr-zz77ro8-6wYcJX3wYSSd8HX0YAjpjc83_I_4AseOOFw)
+## 6. VIRI  [plus.cobiss.net](https://plus.cobiss.net/cobiss/um/sl/discovery/eNp9kM1O3DAQx6OqSFDoIyBZ4pztxM7m4wZCtEVC6qWcrVnPhPU2sYPtLOUpeOV6tbTHnmY08_-QfkVxWcGqgg6-VG3dQa9gJUHWK6lq6NrmQ3F2uJfQ1_3Hf7uC0-JTjDuAulUNnBVvd79nDnZil3AUhAlFKSjYPTuB45MPNm0nkbyYA5M1SUyL-TXbkYXZYkCTsjkma6KwTuy8dYlJ-D2HzRIoZ2zYma1YonVPYnETOpf_mE25bc9ba3ISOhI397nEj_GiOBlwjPz5fZ4Xj1_vft5-Lx9-fLu_vXkojVJdKhU1xG2j2oaQAOQASMpUa1RA1G2Ya5bKyEHWLapKkmEAVmvVcEck-16dF1fH3Dn454Vj0ju_BJcrtToga2QWZ9X6qDLBxxh40HNmheFVV6AP7PVf9vrAXr-zz77ro8-6wYcJX3wYSSd8HX0YAjpjc83_I_4AseOOFw)
 
